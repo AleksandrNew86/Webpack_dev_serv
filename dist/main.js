@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=document.createElement("div");e.innerHTML=`Result: ${5,3.14*5} and 11`,document.body.append(e),console.log(6)})();
